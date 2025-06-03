@@ -155,3 +155,17 @@ This will test the Bluetooth connectivity/packet loss.
 4. Click Developer Settings
 5.	Click “Start 5s Packet Test” after 10 to 20 seconds, the results will pop up. If you 
 are within one to two meters of the Box, you should get 0% loss
+
+
+## Test Set 9: ArtNet to WDMX
+#### Overview / Objective
+Test if the ArtNet in to WDMX out is working. 
+1. Link one or more fixtures to the Box using WDMX
+2. Set the IP Address, Unaverse, and subnet if needed. 
+#### Setting the IP Address 
+1. Navigate to the `"Settings"` menu and press `<Enter>`
+2. Navigate to the `"Ethernet options"` menu and press `<Enter>`
+3. Navigate to the `"IP Address"` menu and press `<Enter>`
+4. Navigate to the `"Edit"` menu and press `<Enter>`
+5. Navigate to the IP segment you want to change and press `<Enter>`
+6. 

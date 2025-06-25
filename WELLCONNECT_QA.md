@@ -58,9 +58,7 @@ Test if the encoder rotation and push button Enter are working.
 1.	Power on the box. 
 2.	Once you see the main screen, wait 30 seconds.
 3.	Rotate the encoder to `Settings` then navigate to `Firmware Version` press `<Enter>` by pushing in on the encoder.
-
 You should now see the firmware version on the screen. 
-
 
 ## Test Set 3: Back Button Test
 #### Overview / Objective
@@ -130,14 +128,14 @@ Test the DMX to WDMX mode. You will need one WELL fixture, a DMX controller, and
 
 The light should now be red at full brightness. 
 
-## Test Set 8: Access Web UI
+## Test Set 8: Web UI
 #### Overview / Objective
-Test the ability to access the web UI from a PC.
+Test the ability to access the web UI and up date firmware from a PC.
 
->Note: The Box's IP address is 192.168.2.1, and the web UI is only available for the first five minutes 
+>Note: The Box's IP address is 192.168.2.1, and the web UI is only available for the first 30 minutes 
 after it is powered on. 
 
-###  8.1
+####  8.1 Access Web UI
 1. Set PC’s IP address to 192.168.2.100
 2. Connect PC to the Box using a CAT-5 cable. 
 3. Connect power to the Box. 
@@ -145,6 +143,24 @@ after it is powered on.
 5. Once you see the main screen appears and the encoder is working, go to the next step. 
 6. On the PC, open a web browser like Chrome and navigate to 192.168.2.1 
 7. If you should now see the web UI. 
+
+### 8.2 Update UI 
+This will update the web UI. **Note: this is only needed if there is an update.**
+1.	Connect to the web interface like in test 6. 
+2.	Click “choose file,” which will open a file browser 
+3.	Navigate to the web UI “.zip” file 
+4.	Click “UPGRADE.”  
+5.	Wait until completed 
+6.	Power cycle the box. 
+
+### 8.3 Update fiemware via web UI
+This will upgrade the firmware of the box. **Note: this is only needed if there is an update.**
+1.	Connect to the web interface like in test 6. 
+2.	Click “choose file,” which will open a file browser 
+3.	Navigate to the Well Connect firmware “.zip” file 
+4.	Click “UPGRADE.”  
+5.	Wait until completed 
+6.	Power cycle the box. 
 
 ## Test Set 9: Bluetooth packet test
 #### Overview / Objective
@@ -155,7 +171,6 @@ This will test the Bluetooth connectivity/packet loss.
 4. Click Developer Settings
 5.	Click “Start 5s Packet Test” after 10 to 20 seconds, the results will pop up. If you 
 are within one to two meters of the Box, you should get 0% loss
-
 
 ## Test Set 9: ArtNet to WDMX
 #### Overview / Objective
@@ -168,4 +183,3 @@ Test if the ArtNet in to WDMX out is working.
 3. Navigate to the `"IP Address"` menu and press `<Enter>`
 4. Navigate to the `"Edit"` menu and press `<Enter>`
 5. Navigate to the IP segment you want to change and press `<Enter>`
-6. 

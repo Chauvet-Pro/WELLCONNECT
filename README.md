@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] Notes:  
+> IMPORTANT:  
 Use the box version that matches the phone version. Always use the box version with the latest at the end. 
 
 ### Current Version:
@@ -9,8 +9,6 @@ Use the box version that matches the phone version. Always use the box version w
 | 3.0           | 3.0         |
 | 3.1           | 3.1         |
 | 3.2           | 3.2         |
-| 5.0           | 5.0         |
-
 
 ### Legacy Version:
 

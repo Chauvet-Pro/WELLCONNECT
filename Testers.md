@@ -4,6 +4,8 @@ Welcome to the WELLCONNECT testing team! This guide provides instructions on how
 
 > [!IMPORTANT]  
 > To use the latest test version of the app, you **must** have the latest **WebUI** and **Box Firmware** installed on your hardware.
+> 
+> **Make sure to back up your data before proceeding.**
 
 ---
 
@@ -21,6 +23,15 @@ Before you begin, ensure you have the necessary files:
 
 ---
 
+## Back Up Data
+1. in the app navigate to `Home` > 
+2. Press `Project:` note: there will be some numbers in the project name.
+3. Press `Export Project`
+4. Save the file somewhere safe.
+
+---
+
+
 ## 📥 Installation Steps
 
 The update process must be done in two stages.
@@ -37,7 +48,8 @@ The update process must be done in two stages.
 2.  Select the **Box firmware file** (`.zip`) you downloaded.
 3.  Click **Upgrade** and wait for the process to complete.
 4.  **Reboot** the box.
-5.  **Done!** You are now ready to test.
+5.  Power on the box and navigate `Settings` > **`Delete Data & Restart`** 
+6.  navigate to `YES` and press `Enter`
 
 > [!NOTE]  
 > The WebUI is typically only available for the first 30 minutes after the box is powered on.

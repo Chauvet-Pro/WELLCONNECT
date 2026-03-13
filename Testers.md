@@ -24,8 +24,8 @@ Before you begin, ensure you have the necessary files:
 ---
 
 ## Back Up Data
-1. in the app navigate to `Home` > 
-2. Press `Project:` note: there will be some numbers in the project name.
+1. In the app, navigate to `Home`.
+2. Press `Project:` (Note: there will be some numbers in the project name).
 3. Press `Export Project`
 4. Save the file somewhere safe.
 

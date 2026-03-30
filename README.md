@@ -16,9 +16,7 @@ This repository contains firmware and update tools for the **WELL CONNECT** and 
 ## 🚀 WebUI (Management Interface)
 The WebUI is required to upload firmware updates to your box.
 
-- **Latest Stable:** [webui_v4.1.1.zip](firmware/webui_v4.1.1.zip)
-- **Testing Version:** [webui_v5.0.1.zip](firmware/webui_v5.0.1.zip) — *Required for testing the 4.1.* versions.*
-
+- **Latest Stable:** [webui_v5.1.0.zip](firmware/webui_v5.1.0.zip)
 ---
 
 ## 📖 Useful Guides
@@ -33,9 +31,10 @@ The WebUI is required to upload firmware updates to your box.
 ### Current Versions
 Recommended for most users.
 
-| Phone App Version | Box Version | Download Link |
-| :--- | :--- | :--- |
-| **3.2** | 3.2 | [well_connect_firmware_v3.2_latest.zip](firmware/well_connect_firmware_v3.2_latest.zip) |
+| Phone App Version | Box Version | Box Download Link                                                                       |
+|:------------------|:------------|:----------------------------------------------------------------------------------------|
+| **4.1.24**        | **4.1.10**  | [well_connect_firmware_v4.1.10_latest.zip](firmware/well_connect_firmware_v4.1.10_latest.zip) | 
+| Change log for    | **4.1.##**  | [CHANGELOG.md](CHANGELOG.md) ||
 
 ### Legacy Versions
 For older installations.
@@ -44,11 +43,14 @@ For older installations.
 | :--- | :--- | :--- |
 | **1.10** | 1.8.1 | [well_connect_firmware_v1.8.1.zip](firmware/well_connect_firmware_v1.8.1.zip) |
 | **2.1** | 2.1 | [well_connect_firmware_v2.1_latest.zip](firmware/well_connect_firmware_v2.1_latest.zip) |
+| **3.2** | 3.2 | [well_connect_firmware_v3.2_latest.zip](firmware/well_connect_firmware_v3.2_latest.zip) |
 
 ### Testing & Beta Versions
 > [!CAUTION]  
 > These versions are for testing purposes only and may contain bugs.
 
-| Phone App Version | Box Version | Download Link |
-| :--- | :--- | :--- |
-| **4.1.*** | 4.1.* | [well_connect_firmware_v4.1_testing_latest.zip](firmware/well_connect_firmware_v4.1_testing_latest.zip) |
+| Phone App Version | Box Version | Download Link     |
+|:------------------|:------------|:------------------|
+| **0**             | **0**       | No Beta available | 
+
+

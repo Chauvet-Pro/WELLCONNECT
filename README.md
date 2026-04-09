@@ -33,8 +33,8 @@ Recommended for most users.
 
 | Phone App Version | Box Version | Box Download Link                                                                       |
 |:------------------|:------------|:----------------------------------------------------------------------------------------|
-| **4.1.24**        | **4.1.10**  | [well_connect_firmware_v4.1.10_latest.zip](firmware/well_connect_firmware_v4.1.10_latest.zip) | 
-| Change log for    | **4.1.##**  | [CHANGELOG.md](CHANGELOG.md) ||
+| **4.1.24**        | **4.1.10**  | [well_connect_firmware_v4.1_latest.zip](firmware/well_connect_firmware_v4.1_latest.zip) | 
+| Change log for    | **4.1.##**  | [CHANGELOG.md](CHANGELOG.md)                                                            ||
 
 ### Legacy Versions
 For older installations.

@@ -20,6 +20,7 @@ The WebUI is required to upload firmware updates to your box.
 ---
 
 ## 📖 Useful Guides
+- **["GitHub could not fetch" Fix](GitHubIssue.md)**: How to resolve the "GitHub could not fetch" firmware update error.
 - **[Upgrade Guide (1.8.0 to 3.2)](1.8.0_to_3.2_upgrade.md)**: Detailed steps for major version upgrades.
 - **[Tester's Guide](Testers.md)**: Information for the testing team.
 - **[QA Test Procedures](WELLCONNECT_QA.md)**: Full hardware and software test sets.

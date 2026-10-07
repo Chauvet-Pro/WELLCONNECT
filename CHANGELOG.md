@@ -4,6 +4,35 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [5.0.0] 2026-10-07 Box Firmware Update
+
+> Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.
+
+### New Features
+
+- **Auto Patch** *(App & Device)* — Finds compatible fixtures and sets each one's mode and DMX address for individual control.
+- **Battery Monitor** *(App & Device)* — Battery levels and low-battery alerts in the Scenes view. Long-press a fixture to identify it.
+- **New Scene Effects** *(App & Device)*
+  - **Pairs Fade** — Alternating fixtures fade between two colors. Adjustable duration and fade time.
+  - **Generic Dimmer** — Brightness effect for dimmer-only and single-color fixtures.
+- **Scene Crossfade (X-Fade)** *(App & Device)* — Fade smoothly between scenes, up to 30 seconds.
+
+### Improvements
+
+- **Project Import & Restore** *(Device)* — Imports apply DMX addresses and modes; restores bring back fixture links.
+- **Fixture Info Menu** *(Device)* — View linked fixture details under Linking.
+- **Radio Reset** *(App & Device)* — Reset the wireless radio from the app or box Settings.
+- **Faster Scene Starts** *(Device)* — Up to 1.5 seconds faster.
+- **Smoother DMX Output** *(Device)* — No more stutter while the box is busy.
+- **Battery Fixtures** *(Device)* — More reliable responses from fixtures like WELL FIT X.
+- **App Sync on Startup** *(App & Device)* — More reliable right after power-on.
+
+### Bug Fixes
+
+- **Large Rigs** *(Device)* — Fixed out-of-memory crashes with many fixtures.
+
+---
+
 ## [4.1.10] 2026-03-30 Box Firmware Update
 
 ### New Features

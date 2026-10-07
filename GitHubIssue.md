@@ -1,6 +1,6 @@
 # “GitHub could not fetch”
 
-Problem: The box firmware will not update and the error message is "GitHub could not fetch". This is because the system time is incorrect, so GitHub rejects the request. The latest firmware is 4.1.10.
+Problem: The box firmware will not update and the error message is "GitHub could not fetch". This is because the system time is incorrect, so GitHub rejects the request. The latest firmware is 5.0.0.
 The time is set automatically via the app, with no user interaction needed.
 
 To fix this issue, follow the steps below:
@@ -13,7 +13,7 @@ To fix this issue, follow the steps below:
 Before you begin, ensure you have the necessary files:
 
 1.  **Download WebUI:** Get the latest version: [`webui_v5.1.0.zip`](https://github.com/Chauvet-Pro/WELLCONNECT/raw/refs/heads/main/firmware/webui_v5.1.0.zip).
-2.  **Download Box Firmware:** Get the latest 4.1.* firmware: [`well_connect_firmware_v4.1.10.zip`](https://github.com/Chauvet-Pro/WELLCONNECT/raw/refs/heads/main/firmware/well_connect_firmware_v4.1.10.zip).
+2.  **Download Box Firmware:** Get the latest 5.0.* firmware: [`well_connect_firmware_v5.0.0.zip`](https://github.com/Chauvet-Pro/WELLCONNECT/raw/refs/heads/main/firmware/well_connect_firmware_v5.0.0.zip).
 
 ---
 ## Network Setup

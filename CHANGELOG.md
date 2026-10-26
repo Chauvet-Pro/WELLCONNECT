@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [5.0.1] 2026-10-26 Box Firmware Update
+
+> Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.
+
+### Improvements
+
+- **Auto Patch & Discovery** *(Device)* — Staged discovery with progress, more reliable patching, and stability fixes for large rigs.
+
+### Bug Fixes
+
+- **New Show Keeps Box Settings** *(Device)* — Starting a new show no longer clears the Bluetooth PIN, outputs, network, box name, or D-Fi settings.
+
+---
+
 ## [5.0.0] 2026-10-07 Box Firmware Update
 
 > Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.

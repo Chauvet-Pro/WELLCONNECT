@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [5.0.2] 2026-11-02 Box Firmware Update
+
+> Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.
+
+### New Features
+
+- **Standalone Mode** *(Device)* — Run the lights from the box without a phone: Auto Patch, a fixture list with battery levels and Identify, low-battery alerts, and Live Output (master dimmer, full output, color mixer, color presets, effects, scenes, and blackout).
+- **Shows on the Box** *(Device)* — Keep up to 8 shows on the box and switch between them from the menu. Works with the current phone app.
+- **Info Menu** *(Device)* — Box battery, Bluetooth signal strength, firmware version, and web address.
+- **Display Settings** *(Device)* — Screen brightness, sleep timer, and burn-in protection (dims when idle).
+- **Button Shortcuts** *(Device)* — Double-tap or hold the knob on the home screen to open Live Output; hold Back to return home.
+
+### Improvements
+
+- **Bluetooth Range & Stability** *(Device)* — Longer range and fewer dropouts. Wi-Fi now stays off except during firmware updates.
+- **Firmware Updates** *(Device)* — No more hangs, and clearer error messages.
+- **Smoother DMX Output** *(Device)* — Steadier timing and faster scene starts.
+- **New Home & Startup Screens** *(Device)* — WELL CONNECT logo, status icons, and menu scroll arrows.
+
+### Bug Fixes
+
+- **Fixture Flicker** *(Device)* — Fixed fixtures blinking on and off.
+- **Master Dimmer** *(App & Device)* — The master dimmer now works on a static color.
+- **Always On Display** *(Device)* — The screen no longer turns off when set to Always On.
+
+---
+
 ## [5.0.1] 2026-10-26 Box Firmware Update
 
 > Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.

@@ -8,6 +8,8 @@ All notable changes to this project will be documented in this file.
 
 > Requires WebUI [v5.1.0](firmware/webui_v5.1.0.zip). Back up your project before updating.
 
+> This update installs a new runtime (Node 26) on the box, so the download is larger (about 70 MB) and the first start after updating takes a little longer. Later updates are back to the usual size.
+
 ### New Features
 
 - **Standalone Mode** *(Device)* — Run the lights from the box without a phone: Auto Patch, a fixture list with battery levels and Identify, low-battery alerts, and Live Output (master dimmer, full output, color mixer, color presets, effects, scenes, and blackout).

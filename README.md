@@ -19,6 +19,16 @@ The WebUI is required to upload firmware updates to your box.
 - **Latest Stable:** [webui_v5.1.0.zip](firmware/webui_v5.1.0.zip)
 ---
 
+## 🖥️ Box Menu Emulator
+Try the box's screen menu in your browser: turn the knob and press Enter and Back as on the box.
+
+| Box Version | Menu | Emulator |
+|:------------|:-----|:---------|
+| **5.0.2**   | Current menu (Standalone, Info) | [Open v5.0.2](https://chauvet-pro.github.io/WELLCONNECT/emulator/v5.0.2/) |
+| **4.1.10**  | Previous menu | [Open v4.1.10](https://chauvet-pro.github.io/WELLCONNECT/emulator/v4.1.10/) |
+
+---
+
 ## 📖 Useful Guides
 - **["GitHub could not fetch" Fix](GitHubIssue.md)**: How to resolve the "GitHub could not fetch" firmware update error.
 - **[Upgrade Guide (1.8.0 to 3.2)](1.8.0_to_3.2_upgrade.md)**: Detailed steps for major version upgrades.
